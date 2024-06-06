@@ -4,27 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="991a15ec-0407-4f24-87c6-1beff40baca3" name="Changes" comment="" />
+    <list default="true" id="991a15ec-0407-4f24-87c6-1beff40baca3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/estrutura-sequencial/Terreno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura-sequencial/estrutura-sequencia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/estrutura-sequencia.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2hWDIWIZHQ6CFehPymVO3dwoAdT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/Estudos/DEVSUPERIOR/ds-java-essential",
+    "last_opened_file_path": "C:/Estudos/DEVSUPERIOR/ds-java-essential/estrutura-sequencial",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -37,7 +48,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Estudos\DEVSUPERIOR\ds-java-essential\estrutura-sequencial" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Estudos\DEVSUPERIOR\ds-java-essential\.idea" />
       <recent name="C:\Estudos\DEVSUPERIOR\ds-java-essential\estrutura-sequencial\src" />
     </key>
   </component>
@@ -49,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717700888582</updated>
-      <workItem from="1717700888582" duration="1658000" />
+      <workItem from="1717700888582" duration="2641000" />
     </task>
     <servers />
   </component>
