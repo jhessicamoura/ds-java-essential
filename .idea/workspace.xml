@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15fba244-d8f2-4bc1-b90c-03790588e635" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/estruturacondicional/MenorDeTres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturacondicional/Operadora.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturacondicional/Baskara.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturacondicional/MenorDeTres.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturacondicional/Notas.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Circulo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Consumo.class" beforeDir="false" />
@@ -86,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1720010050897</updated>
       <workItem from="1720010050913" duration="18403000" />
-      <workItem from="1720460158619" duration="14711000" />
+      <workItem from="1720460158619" duration="15574000" />
     </task>
     <servers />
   </component>
