@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15fba244-d8f2-4bc1-b90c-03790588e635" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/estruturasequencial/Duracao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturacondicional/Notas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Circulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Consumo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Duracao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Idades.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Medidas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Pagamento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Retangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Soma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Terreno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Troco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1720010050897</updated>
       <workItem from="1720010050913" duration="18403000" />
-      <workItem from="1720460158619" duration="5251000" />
+      <workItem from="1720460158619" duration="9209000" />
     </task>
     <servers />
   </component>

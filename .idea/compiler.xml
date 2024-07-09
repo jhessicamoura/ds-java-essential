@@ -10,6 +10,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="estrutura-sequencial" target="11" />
+      <module name="estruturacondicional" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
