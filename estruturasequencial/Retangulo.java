@@ -26,5 +26,7 @@ public class Retangulo {
         diagonal = Math.sqrt(Math.pow(base, 2) + Math.pow(altura, 2));
         System.out.printf("DIAGONAL = %.4f%n", diagonal);
 
+        sc.close();
+
     }
 }

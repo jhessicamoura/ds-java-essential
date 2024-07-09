@@ -23,6 +23,8 @@ public class Troco {
         troco = pagamento - (precoUnd * qntUnd);
         System.out.printf("TROCO = %.2f", troco);
 
+        sc.close();
+
     }
 
 }

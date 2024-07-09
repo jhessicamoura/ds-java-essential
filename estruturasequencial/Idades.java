@@ -30,6 +30,8 @@ public class Idades {
         media = (idade1 + idade2) / 2;
         System.out.printf("Aidade média de %s e %s é de %.1f anos", nome1, nome2, media);
 
+        sc.close();
+
     }
 
 }

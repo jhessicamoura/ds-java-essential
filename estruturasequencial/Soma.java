@@ -20,5 +20,7 @@ public class Soma {
         soma = x + y;
         System.out.printf("SOMA = %d", soma);
 
+        sc.close();
+
     }
 }

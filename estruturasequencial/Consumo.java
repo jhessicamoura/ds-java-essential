@@ -21,5 +21,7 @@ public class Consumo {
         mediaConsumo = distancia / combustivelGasto;
         System.out.printf("Combustível medio = %.3f", mediaConsumo);
 
+        sc.close();
+
     }
 }

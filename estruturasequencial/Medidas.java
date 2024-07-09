@@ -27,5 +27,7 @@ public class Medidas {
         System.out.printf("AREA DO TRIANGULO = %.4f%n", triangulo);
         System.out.printf("AREA DO TRAPEZIO = %.4f%n", trapezio);
 
+        sc.close();
+
     }
 }

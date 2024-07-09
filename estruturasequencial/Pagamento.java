@@ -24,5 +24,7 @@ public class Pagamento {
         pagamento = valorHora * horasTrabalhadas;
         System.out.printf("O pagamento para %s deve ser %.2f", nome, pagamento);
 
+        sc.close();
+
     }
 }

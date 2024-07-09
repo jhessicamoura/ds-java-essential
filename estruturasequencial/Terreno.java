@@ -24,6 +24,7 @@ public class Terreno {
             preco = metroQuadrado * area;
             System.out.printf("Preço do terreno = %.2f", preco);
 
+            sc.close();
 
         }
 }

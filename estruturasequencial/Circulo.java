@@ -18,5 +18,7 @@ public class Circulo {
         area = pi * (Math.pow(r, 2.0));
         System.out.printf("AREA = %.3f", area);
 
+        sc.close();
+
     }
 }
