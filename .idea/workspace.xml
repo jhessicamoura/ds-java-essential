@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15fba244-d8f2-4bc1-b90c-03790588e635" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/estruturacondicional/Lanchonete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturacondicional/Multiplos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1720010050897</updated>
       <workItem from="1720010050913" duration="18403000" />
-      <workItem from="1720460158619" duration="26685000" />
+      <workItem from="1720460158619" duration="28019000" />
     </task>
     <servers />
   </component>
