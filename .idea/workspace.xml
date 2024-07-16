@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15fba244-d8f2-4bc1-b90c-03790588e635" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/estruturacondicional/Tempo_de_jogo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturacondicional/Aumento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturacondicional/Baskara.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturacondicional/Dardo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturacondicional/Glicose.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturacondicional/Lanchonete.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturacondicional/MenorDeTres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturacondicional/Multiplos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturacondicional/Notas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturacondicional/Operadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturacondicional/Temperatura.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturacondicional/TrocoVerificado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Circulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Consumo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Duracao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Idades.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Medidas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Pagamento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Retangulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Soma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Terreno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ds-java-essential/estruturasequencial/Troco.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturacondicional/Coordenadas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,24 +41,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "11",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Estudos\DEVSUPERIOR\java_spring_essential\ds-java-essential\estrutura-sequencial\src" />
@@ -95,6 +75,7 @@
       <updated>1720010050897</updated>
       <workItem from="1720010050913" duration="18403000" />
       <workItem from="1720460158619" duration="35742000" />
+      <workItem from="1721154536292" duration="1951000" />
     </task>
     <servers />
   </component>
