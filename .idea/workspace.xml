@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15fba244-d8f2-4bc1-b90c-03790588e635" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/estrutura_repetitiva/ParesConsecutivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estrutura_repetitiva/Tabuada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       <recent name="C:\Estudos\DEVSUPERIOR\java_spring_essential\ds-java-essential\estrutura-sequencial\src\main" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Tabuada">
     <configuration name="ParesConsecutivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estrutura_repetitiva.ParesConsecutivos" />
       <module name="ds-java-essential" />
@@ -79,8 +79,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estrutura_repetitiva.Tabuada" />
+      <module name="ds-java-essential" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estrutura_repetitiva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tabuada" />
         <item itemvalue="Application.ParesConsecutivos" />
       </list>
     </recent_temporary>
@@ -96,7 +110,7 @@
       <workItem from="1720010050913" duration="18403000" />
       <workItem from="1720460158619" duration="35742000" />
       <workItem from="1721154536292" duration="25920000" />
-      <workItem from="1721655657429" duration="7791000" />
+      <workItem from="1721655657429" duration="13387000" />
     </task>
     <servers />
   </component>
