@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15fba244-d8f2-4bc1-b90c-03790588e635" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/estrutura_repetitiva/DentroFora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estrutura_repetitiva/ParImpar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <recent name="C:\Estudos\DEVSUPERIOR\java_spring_essential\ds-java-essential\estrutura-sequencial\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DentroFora">
+  <component name="RunManager">
     <configuration name="DentroFora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estrutura_repetitiva.DentroFora" />
       <module name="ds-java-essential" />
@@ -153,7 +152,7 @@
       <workItem from="1720460158619" duration="35742000" />
       <workItem from="1721154536292" duration="25920000" />
       <workItem from="1721655657429" duration="24315000" />
-      <workItem from="1722259057891" duration="5555000" />
+      <workItem from="1722259057891" duration="6345000" />
     </task>
     <servers />
   </component>
