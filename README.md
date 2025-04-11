@@ -1,13 +1,20 @@
-# ds-java-essential
+# Exercícios de Java - Estruturas de Controle
 
-Este repositório contém exercícios básicos de programação em Java, organizados por tipos de estruturas de controle. Ele foi criado como parte do seu aprendizado inicial na linguagem Java, abordando os seguintes tópicos:
+Este repositório contém a resolução dos exercícios propostos no curso de Java e Orientação a Objetos do **Prof. Dr. Nelio Alves** – [DevSuperior](https://devsuperior.com.br).
 
-- **Estrutura Sequencial**: Exercícios que envolvem entrada e saída de dados, operações aritméticas e lógica linear.
-- **Estrutura Condicional**: Exercícios que utilizam comandos `if`, `else` e `switch` para tomada de decisões.
-- **Estrutura Repetitiva**: Exercícios com laços `for`, `while` e `do-while` para repetição de instruções.
+### Capítulos:
+- Estrutura Sequencial  
+- Estrutura Condicional  
+- Estrutura Repetitiva  
 
-Cada pasta (`estruturasequencial`, `estruturacondicional`, `estrutura_repetitiva`) contém códigos-fonte correspondentes aos respectivos temas.
+🧠 **Exercícios de fixação**
+
+Os códigos estão organizados por tipo de estrutura de controle e abordam os principais conceitos da lógica de programação em Java, incluindo:
+
+- Leitura e escrita de dados
+- Condições com `if`, `else` e `switch`
+- Repetições com `for`, `while` e `do-while`
 
 ---
 
-> Repositório criado para fins de estudo e prática da linguagem Java.
+> Repositório criado para fins de estudo e prática dos fundamentos de Java.
